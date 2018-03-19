@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "kr.co.siwon.hello"
+        }
+    }
+}
